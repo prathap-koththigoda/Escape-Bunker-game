@@ -1,4 +1,5 @@
 # Escape-Bunker-game
+
 Das Konzept: 
 Konzept Ihres Games. Es gibt 5 Rooms / 3 Items: Schlüssel, Maske, Sauerstoff Tank. 
 Man hat min. 5 Räume und muss die 3 Items finden, um zu entkommen. Falls der Spieler in den Haupt Floor eintritt, bevor er die Maske und den Sauerstoff Tank hat, stirbt der Spieler und das Spiel ist vorbei. 
